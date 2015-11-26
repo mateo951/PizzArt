@@ -704,10 +704,10 @@
                                 <exclude reference="hz8-PQ-rRG"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="8sd-dz-7eS"/>
-                                <exclude reference="VCs-rz-LZU"/>
                                 <exclude reference="0JU-IL-8FP"/>
                                 <exclude reference="69u-kX-H0w"/>
+                                <exclude reference="8sd-dz-7eS"/>
+                                <exclude reference="VCs-rz-LZU"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -718,10 +718,10 @@
                                 <include reference="hz8-PQ-rRG"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="8sd-dz-7eS"/>
-                                <include reference="VCs-rz-LZU"/>
                                 <include reference="0JU-IL-8FP"/>
                                 <include reference="69u-kX-H0w"/>
+                                <include reference="8sd-dz-7eS"/>
+                                <include reference="VCs-rz-LZU"/>
                             </mask>
                         </variation>
                     </view>
