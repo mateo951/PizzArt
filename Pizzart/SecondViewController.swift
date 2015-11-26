@@ -14,16 +14,14 @@ class SecondViewController: UIViewController, UIPickerViewDelegate, UIPickerView
     
     var pickerData: [String] = [String]()
     
-    
-
-    override func viewDidLoad() {
+       override func viewDidLoad() {
         super.viewDidLoad()
         // Connect data:
         self.sizePicker.delegate = self
         self.sizePicker.dataSource = self
         
         // Input data into the Array:
-        pickerData = ["Extra Thin", "Traditional", "Double Dough"]
+        pickerData = ["", "Extra Thin", "Traditional", "Double Dough"]
     }
 
     override func didReceiveMemoryWarning() {
@@ -50,8 +48,7 @@ class SecondViewController: UIViewController, UIPickerViewDelegate, UIPickerView
     func pickerView(pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int) {
         // This method is triggered whenever the user makes a change to the picker selection.
         // The parameter named row and component represents what was selected.
+        
     }
-
-
+    
 }
-

@@ -14,13 +14,21 @@
 		A285706A1BF9A40A00523F42 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A28570691BF9A40A00523F42 /* Assets.xcassets */; };
 		A285706D1BF9A40A00523F42 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A285706B1BF9A40A00523F42 /* LaunchScreen.storyboard */; };
 		A28570771BF9A89100523F42 /* pizza 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A28570741BF9A89100523F42 /* pizza 2.jpg */; };
-		A28570781BF9A89100523F42 /* pizza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A28570751BF9A89100523F42 /* pizza.jpg */; };
 		A28570791BF9A89100523F42 /* Pizza 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A28570761BF9A89100523F42 /* Pizza 1.jpg */; };
 		A285707B1BF9B9F600523F42 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A285707A1BF9B9F500523F42 /* ThirdViewController.swift */; };
 		A285707D1BF9BA0D00523F42 /* ForthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A285707C1BF9BA0D00523F42 /* ForthViewController.swift */; };
 		A285707F1BF9BA1E00523F42 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A285707E1BF9BA1E00523F42 /* FifthViewController.swift */; };
 		A28570811BF9BA4300523F42 /* SixthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A28570801BF9BA4300523F42 /* SixthViewController.swift */; };
 		A28570831BF9C33C00523F42 /* pizzatelefono3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A28570821BF9C33C00523F42 /* pizzatelefono3.jpeg */; };
+		A28F64DE1BFD8D040036B979 /* Pizza Size.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A28F64DA1BFD8D040036B979 /* Pizza Size.jpg */; };
+		A28F64DF1BFD8D040036B979 /* Pizzart Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A28F64DB1BFD8D040036B979 /* Pizzart Background.jpg */; };
+		A28F64E01BFD8D040036B979 /* Cheese.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A28F64DC1BFD8D040036B979 /* Cheese.jpg */; };
+		A28F64E11BFD8D040036B979 /* Pizza White Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A28F64DD1BFD8D040036B979 /* Pizza White Background.jpg */; };
+		A2C46F821BFF9BEF00A2AD85 /* Background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2C46F811BFF9BEF00A2AD85 /* Background.jpg */; };
+		A2C46F851BFFA1C200A2AD85 /* Pizza.png in Resources */ = {isa = PBXBuildFile; fileRef = A2C46F841BFFA1C200A2AD85 /* Pizza.png */; };
+		A2C7CA971BFECA3C007BEE3D /* Size.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2C7CA961BFECA3C007BEE3D /* Size.jpg */; };
+		A2E42F0A1BFE49EE0026ADCD /* Art Brewery.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A28F64E21BFD95EE0036B979 /* Art Brewery.ttf */; };
+		A2E42F0C1BFE6B580026ADCD /* Ingredients.png in Resources */ = {isa = PBXBuildFile; fileRef = A2E42F0B1BFE6B580026ADCD /* Ingredients.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,13 +41,21 @@
 		A285706C1BF9A40A00523F42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A285706E1BF9A40A00523F42 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A28570741BF9A89100523F42 /* pizza 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "pizza 2.jpg"; sourceTree = "<group>"; };
-		A28570751BF9A89100523F42 /* pizza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pizza.jpg; sourceTree = "<group>"; };
 		A28570761BF9A89100523F42 /* Pizza 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pizza 1.jpg"; sourceTree = "<group>"; };
 		A285707A1BF9B9F500523F42 /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		A285707C1BF9BA0D00523F42 /* ForthViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForthViewController.swift; sourceTree = "<group>"; };
 		A285707E1BF9BA1E00523F42 /* FifthViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
 		A28570801BF9BA4300523F42 /* SixthViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SixthViewController.swift; sourceTree = "<group>"; };
 		A28570821BF9C33C00523F42 /* pizzatelefono3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pizzatelefono3.jpeg; sourceTree = "<group>"; };
+		A28F64DA1BFD8D040036B979 /* Pizza Size.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pizza Size.jpg"; sourceTree = "<group>"; };
+		A28F64DB1BFD8D040036B979 /* Pizzart Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pizzart Background.jpg"; sourceTree = "<group>"; };
+		A28F64DC1BFD8D040036B979 /* Cheese.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cheese.jpg; sourceTree = "<group>"; };
+		A28F64DD1BFD8D040036B979 /* Pizza White Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pizza White Background.jpg"; sourceTree = "<group>"; };
+		A28F64E21BFD95EE0036B979 /* Art Brewery.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Art Brewery.ttf"; sourceTree = "<group>"; };
+		A2C46F811BFF9BEF00A2AD85 /* Background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Background.jpg; path = ../../../../../../Assets/Imagenes/Background.jpg; sourceTree = "<group>"; };
+		A2C46F841BFFA1C200A2AD85 /* Pizza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Pizza.png; path = ../../../../../../Assets/Imagenes/Pizza.png; sourceTree = "<group>"; };
+		A2C7CA961BFECA3C007BEE3D /* Size.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Size.jpg; path = ../../../../../../Assets/Imagenes/Size.jpg; sourceTree = "<group>"; };
+		A2E42F0B1BFE6B580026ADCD /* Ingredients.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ingredients.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,12 +99,28 @@
 				A28570691BF9A40A00523F42 /* Assets.xcassets */,
 				A285706B1BF9A40A00523F42 /* LaunchScreen.storyboard */,
 				A285706E1BF9A40A00523F42 /* Info.plist */,
-				A28570741BF9A89100523F42 /* pizza 2.jpg */,
-				A28570751BF9A89100523F42 /* pizza.jpg */,
-				A28570761BF9A89100523F42 /* Pizza 1.jpg */,
-				A28570821BF9C33C00523F42 /* pizzatelefono3.jpeg */,
+				A2C46F831BFF9C5800A2AD85 /* Images */,
+				A28F64E21BFD95EE0036B979 /* Art Brewery.ttf */,
 			);
 			path = Pizzart;
+			sourceTree = "<group>";
+		};
+		A2C46F831BFF9C5800A2AD85 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				A28F64DD1BFD8D040036B979 /* Pizza White Background.jpg */,
+				A28570741BF9A89100523F42 /* pizza 2.jpg */,
+				A28570761BF9A89100523F42 /* Pizza 1.jpg */,
+				A28570821BF9C33C00523F42 /* pizzatelefono3.jpeg */,
+				A2C46F841BFFA1C200A2AD85 /* Pizza.png */,
+				A28F64DA1BFD8D040036B979 /* Pizza Size.jpg */,
+				A28F64DB1BFD8D040036B979 /* Pizzart Background.jpg */,
+				A2C46F811BFF9BEF00A2AD85 /* Background.jpg */,
+				A28F64DC1BFD8D040036B979 /* Cheese.jpg */,
+				A2C7CA961BFECA3C007BEE3D /* Size.jpg */,
+				A2E42F0B1BFE6B580026ADCD /* Ingredients.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -150,12 +182,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A28570781BF9A89100523F42 /* pizza.jpg in Resources */,
+				A2C7CA971BFECA3C007BEE3D /* Size.jpg in Resources */,
+				A2C46F821BFF9BEF00A2AD85 /* Background.jpg in Resources */,
+				A2E42F0C1BFE6B580026ADCD /* Ingredients.png in Resources */,
+				A28F64DF1BFD8D040036B979 /* Pizzart Background.jpg in Resources */,
 				A285706D1BF9A40A00523F42 /* LaunchScreen.storyboard in Resources */,
 				A28570831BF9C33C00523F42 /* pizzatelefono3.jpeg in Resources */,
 				A285706A1BF9A40A00523F42 /* Assets.xcassets in Resources */,
 				A28570771BF9A89100523F42 /* pizza 2.jpg in Resources */,
+				A2E42F0A1BFE49EE0026ADCD /* Art Brewery.ttf in Resources */,
 				A28570681BF9A40A00523F42 /* Main.storyboard in Resources */,
+				A28F64E11BFD8D040036B979 /* Pizza White Background.jpg in Resources */,
+				A28F64DE1BFD8D040036B979 /* Pizza Size.jpg in Resources */,
+				A2C46F851BFFA1C200A2AD85 /* Pizza.png in Resources */,
+				A28F64E01BFD8D040036B979 /* Cheese.jpg in Resources */,
 				A28570791BF9A89100523F42 /* Pizza 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -323,6 +363,7 @@
 				A28570731BF9A40A00523F42 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
